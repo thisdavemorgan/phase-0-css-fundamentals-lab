@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+text-align: center;
+}
+img {
+  align-items: center;
+  justify-content: center;
+  width: 900px;
+  height: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+figcaption {
+  text-align: center;
+  font-size: 15px;
+}
+nav a {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #ded39f;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+nav {
+  text-align: center;
+}
+#featured-property > p {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+}
+#details > div {
+  float: left;
+  text-align: center;
+  justify-content: center;
+  margin-left: 10%;
+  display: block;
+  padding-left: 10x;
+  padding-right: 10px;
+  background-color: rgb(160, 96, 73);
+}
